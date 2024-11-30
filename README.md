@@ -55,7 +55,7 @@ This application allows you to control your system's volume and other functions 
 
 1. Run the application:
    ```bash
-   python main.py
+   python mutevoice.py
    ```
 
 2. The GUI will appear with an option to start the application. Once started, the application will use your webcam to detect hand gestures and listen for voice commands.
